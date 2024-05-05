@@ -1,0 +1,48 @@
+SR_latch:
+1k-
+ Total energy dissipation: 1.21e-002 eV
+   Average energy dissipation per cycle:1.10e-003 eV
+2k-
+Total energy dissipation:1.23e-002 eV
+   Average energy dissipation per cycle:1.12e-003 eV
+5k-
+ Total energy dissipation: 1.32e-002 eV 
+   avgener: 1.20e-003 eV 
+10k-
+Total energy dissipation:1.04e-002 eV
+   Average energy dissipation per cycle:9.47e-004 ev
+
+
+D_latch:
+2k-
+Total energy dissipation:7.25e-003 eV
+   Average energy dissipation per cycle:6.59e-004 eV
+5k-
+ Total energy dissipation:  7.59e-003 eV
+   avgener:6.90e-004 eV
+10k-
+Total energy dissipation:7.11e-003 eV
+   Average energy dissipation per cycle: 6.46e-004 eV
+
+D_flip_flop:
+2k-
+Total energy dissipation:2.51e-002 eV
+   Average energy dissipation per cycle:2.28e-003 eV
+5k- 
+Total energy dissipation:   2.51e-002 eV
+   avgener:2.28e-003 eV
+10k-
+Total energy dissipation:2.34e-002 eV
+   Average energy dissipation per cycle: 2.13e-003 eV
+
+
+positive_edge_triggered_D_flipflop:
+2k-
+Total energy dissipation:1.73e-002 eV
+   Average energy dissipation per cycle:1.57e-003 eV 
+5k- 
+Total energy dissipation:  1.43e-002 eV 
+   avgener:1.30e-003 eV
+10k-
+Total energy dissipation:1.37e-002 eV
+   Average energy dissipation per cycle: 1.25e-003 eV

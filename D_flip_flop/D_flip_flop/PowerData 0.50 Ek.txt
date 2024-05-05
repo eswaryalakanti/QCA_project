@@ -1,0 +1,23 @@
+0.50 Ek 
+
+MaxKinkEnergy = 0.00148 Ek 
+
+Max Energy diss of circuit = 0.15271 
+
+Max Energy diss vector = 3 0 
+
+Avg Energy diss of circuit = 0.08025 (over all vector pairs)
+
+Max Energy diss among all cells = 0.00727 
+
+Max Energy diss vector = 0 2
+
+Min Energy diss of circuit = 0.01590 
+
+Min Energy diss vector = 2 2 
+
+----------------------------------------------------
+Avg Leakage Energy dissipation = 0.01690 (over all vector pairs)
+
+Avg Switching Energy Dissipation = 0.06334 (over all vector pairs)
+
